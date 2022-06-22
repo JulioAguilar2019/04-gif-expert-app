@@ -27,4 +27,4 @@ my snippets
 	
 	Curso 
 	
-	87. mostrar mensaje de carga
+	Sección 7
