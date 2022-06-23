@@ -26,5 +26,4 @@ my snippets
 	}
 	
 	Curso 
-	
-	Sección 7
+	106 Jest Functions
